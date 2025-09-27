@@ -1,4 +1,4 @@
-# Intelligent Document Processing (IDP) for Document Validation - SealSure 📄🔍
+# SealSure AI Document Validation 📄🔍
 
 ## 🚀 Overview
 
@@ -41,7 +41,6 @@ Our IDP solution helps to **validate** and **process documents** (scanned, soft 
 
 ## 🌐 Scalability & Integration
 
-- **Cloud-Based Processing** ☁️: Utilize AWS for scalable document processing.
 - **Distributed Computing** 🖥️: Parallel document processing for large batches.
 - **API Integration** 🔌: RESTful APIs for seamless integration with existing systems.
 - **Automated Pipelines** 🔄: Efficient and automated processing pipelines.
@@ -63,6 +62,8 @@ Our IDP solution helps to **validate** and **process documents** (scanned, soft 
 - Backend: `npm install`
 - Python_Flask_FastApi: `pip install -r requirements.txt`
 
+---
+
 ### 3. Run the app
 
 - **Frontend**: `npm run dev`
@@ -73,8 +74,20 @@ Our IDP solution helps to **validate** and **process documents** (scanned, soft 
   ```
   Make sure the backend server is properly configured and running on the appropriate server environment for seamless operation.
 
-### 4. Upload a document 📥: Start uploading documents for validation via the frontend and also from Python_Flask_FastApi.
+---
+
+### 4. Upload a document 📥
+
+Start uploading documents for validation via the frontend and also from Python_Flask_FastApi.
 
 ---
+
+## 👥 Contributors
+
+**Team Lead:** sachin kumar  
+**Team Members:** aditya kumar singh, nisha kumari, abhishek kumar, ashwani kumar mishra
+
+📩 **Reach out:** sachinacz@gmail.com
+
 
 
